@@ -15,7 +15,8 @@ body{
 
 .container{
     background-image: linear-gradient(to right, rgb(250, 112, 154) 0%, rgb(254, 225, 64) 100%);
-    width: 40%;
+    max-width: 700px;
+    margin: 3rem;
     font-size: 1rem;
     /* line-height: 2; */
     height: 37vh;

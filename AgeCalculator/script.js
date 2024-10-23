@@ -33,3 +33,4 @@ function calculate(){
 btn.addEventListener("click", function () {
 calculate();
 });
+
